@@ -114,7 +114,7 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
 
             * [Integer的缓存机制](/basics/java-basic/integer-cache.md)
             
-            * [如何正确定义接口的返回值(boolean/Boolean)类型及命名(success/isSuccess)](/basics/java-basic/success-isSuccess-and-bollean-Bollean.md)
+            * [如何正确定义接口的返回值(boolean/Boolean)类型及命名(success/isSuccess)](/basics/java-basic/success-isSuccess-and-boolean-Boolean.md)
 
         * String
 
@@ -122,7 +122,7 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
 
             * [JDK 6和JDK 7中substring的原理及区别](/basics/java-basic/substring.md)
 
-            * replaceFirst、replaceAll、replace区别
+            * [replaceFirst、replaceAll、replace区别](/basics/java-basic/replace-in-string.md)
 
             * [String对“+”的重载](/basics/java-basic/string-append.md)
 
@@ -184,13 +184,13 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
             
             * [Java 8中stream相关用法](/basics/java-basic/stream.md)
             
-            * Apache集合处理工具类的使用
+            * [Apache集合处理工具类的使用](/basics/java-basic/apache-collections.md)
             
             * 不同版本的JDK中HashMap的实现的区别以及原因
             
             * [Arrays.asList获得的List使用时需要注意什么](/basics/java-basic/Arrays-asList.md)
             
-            * Collection如何迭代 
+            * [Collection如何迭代](/basics/java-basic/iteration-of-collection.md)
             
             * [Enumeration和Iterator区别](/basics/java-basic/Enumeration-vs-Iterator.md)
             
@@ -226,7 +226,7 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
             
             * [输入流、输出流](/basics/java-basic/input-stream-vs-output-stream.md)
             
-            * 字节流和字符流之间的相互转换
+            * [字节流和字符流之间的相互转换](/basics/java-basic/convert-bytestream-characterstream.md)
             
             * [同步、异步](/basics/java-basic/synchronized-vs-asynchronization.md)
             
@@ -290,9 +290,9 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
            
            * [自定义注解](/basics/java-basic/custom-annotation.md)
            
-           * Java中常用注解使用
+           * [Java中常用注解使用](/basics/java-basic/annotation-in-java.md)
            
-           * 注解与反射的结合
+           * [注解与反射的结合](/basics/java-basic/annotion-and-reflect.md)
            
            * [如何自定义一个注解？](/basics/java-basic/create-annotation.md)
            
@@ -328,7 +328,7 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
             
             * [mockito](/basics/java-basic/ut-with-mockito.md)
             
-            * 内存数据库（h2）
+            * [内存数据库（h2）](/basics/java-basic/h2-db.md)
             
         * 正则表达式
             
@@ -404,7 +404,7 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
             
             * [UTF8、UTF16、UTF32区别](/basics/java-basic/UTF8-UTF16-UTF32.md)
             
-            * 有了UTF8为什么还需要GBK？
+            * [有了UTF8为什么还需要GBK？](/basics/java-basic/why-gbk.md)
             
             * [GBK、GB2312、GB18030之间的区别](/basics/java-basic/gbk-gb2312-gb18030.md)
             
@@ -434,11 +434,11 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
             
         * Java 8
             
-            * lambda表达式
+            * [lambda表达式](/basics/java-basic/lambda.md)
             
             * [Stream API](/basics/java-basic/stream.md)
             
-            * 时间API
+            * [时间API](/basics/java-basic/time-in-java8.md)
             
         * 阅读源代码
             
